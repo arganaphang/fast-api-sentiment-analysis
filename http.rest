@@ -1,0 +1,5 @@
+### Get Index
+GET http://localhost:8000
+
+### Get Classification
+GET http://localhost:8000/say?q=This food is awful
